@@ -1,0 +1,11 @@
+{
+  "name": "react-component-library",
+  "version": "1.0.0",
+  "description": "make a component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
